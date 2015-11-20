@@ -1,5 +1,5 @@
 package g54ubi.chat.server;
-//test
+//test2
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
