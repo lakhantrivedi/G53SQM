@@ -1,5 +1,5 @@
 package g54ubi.chat.server;
-//test2
+//mytest
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -8,7 +8,6 @@ import java.net.Socket;
 import java.util.ArrayList;
 
 public class Connection implements Runnable {
-	
 	final static int STATE_UNREGISTERED = 0;
 	final static int STATE_REGISTERED = 1;
 	

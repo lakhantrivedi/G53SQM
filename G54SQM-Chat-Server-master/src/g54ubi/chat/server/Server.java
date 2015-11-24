@@ -7,7 +7,7 @@ import java.util.Iterator;
 
 
 public class Server {
-
+//this is the server class
 	private ServerSocket server;
 	private ArrayList<Connection> list;
 	
